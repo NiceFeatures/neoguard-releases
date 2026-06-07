@@ -10,6 +10,8 @@ Usem winrar ou winzip.
 
 Sobre o "medo" ao utilizar o neoguard, segue link do virustotal e tbm uma breve análise realizada pela IA.
 
+<code>https://www.virustotal.com/gui/file/5b2262af8d4cd74ec0eafdebe0c2dde8f6752eb34b84b4f449b3a2cca134d036/behavior</code>
+
 <img width="2545" height="866" alt="image" src="https://github.com/user-attachments/assets/d6eb20f7-50a2-4b19-b2eb-e7207069ea90" />
 
 "Analisando as capturas de tela que você enviou, o arquivo NeoGuard_x64.exe apresenta 5 detecções em 71 motores antivírus.
