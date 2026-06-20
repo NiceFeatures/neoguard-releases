@@ -6,7 +6,7 @@
 
 #La contraseña para abrir el archivo .zip es: neoguard
 
-Usem winrar ou winzip.
+Em caso de não conseguirem deszipar com o padrão do windows, usem winrar ou 7-zip.
 
 Sobre o "medo" ao utilizar o neoguard, segue link do virustotal e tbm uma breve análise realizada pela IA.
 
