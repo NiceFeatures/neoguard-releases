@@ -10,9 +10,9 @@ Em caso de não conseguirem deszipar com o padrão do windows, usem winrar ou 7-
 
 Sobre o "medo" ao utilizar o neoguard, segue link do virustotal e tbm uma breve análise realizada pela IA.
 
-[<code>[https://www.virustotal.com/gui/file/5b2262af8d4cd74ec0eafdebe0c2dde8f6752eb34b84b4f449b3a2cca134d036/behavior](https://www.virustotal.com/gui/file/6d3a357eb5f43d7a778d3ce2ab88743fd393f9de348418c1f2efa6fd8eda07cc?nocache=1)</code>](https://www.virustotal.com/gui/file/6d3a357eb5f43d7a778d3ce2ab88743fd393f9de348418c1f2efa6fd8eda07cc?nocache=1)
+https://www.virustotal.com/gui/file/79d03e1822d7bd7239ba14011333c4ebe3bfa32964eb1c2ba1b65029813499c3?nocache=1
+<img width="2554" height="870" alt="image" src="https://github.com/user-attachments/assets/38d65654-28e8-43e0-9075-54e8b37a5c0b" />
 
-<img width="2498" height="828" alt="image" src="https://github.com/user-attachments/assets/0077c94a-fef9-4538-bc35-2c2a57dea2d6" />
 
 "Analisando as capturas de tela que você enviou, o arquivo NeoGuard_x64.exe apresenta 4 detecções em 69 motores antivírus.
 
